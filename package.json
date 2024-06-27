@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "5.0.4",
-  "description": "A chrome extension boilerplate built with React 18, Webpack 5, and Webpack Dev Server 4",
+  "name": "chrome-ext-tab-finder",
+  "version": "1.0.0",
+  "description": "A chrome extension built for intelligent tab location",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/LakshBharani/chrome-ext-tab-finder.git"
   },
   "scripts": {
     "build": "node utils/build.js",
